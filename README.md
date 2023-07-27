@@ -9,25 +9,25 @@
 
 ## Mis habilidades principales 💻
 
-- Desarrollo web Frontend con HTML, CSS y JavaScript.
+- Desarrollo web Frontend con HTML, CSS, JavaScript y TypeScript.
 - Creación de aplicaciones web interactivas con React.
 - Desarrollo Backend utilizando Node.js y Express.
-- Diseño y administración de bases de datos MongoDB.
+- Diseño y administración de bases de datos PostgreSQL.
 - Implementación de soluciones escalables y eficientes.
 
 ## Proyectos destacados 🚀
 
-- [Proyecto 1](https://github.com/martinbruno/proyecto-1): Breve descripción del proyecto.
-- [Proyecto 2](https://github.com/martinbruno/proyecto-2): Breve descripción del proyecto.
-- [Proyecto 3](https://github.com/martinbruno/proyecto-3): Breve descripción del proyecto.
+- [Proyecto 1](https://github.com/ManrrubiaF/PF_HOSTEL): Diseño y desarrollo de una aplicación web para administrar y realizar reservas en hoteles.
+- [Proyecto 2](https://github.com/Tinch004/PI): Diseño y desarrollo de una SPA (Single Page Application)..
+
 
 ## Cómo contactarme 📫
 
 ¡Me encantaría saber de ti! Si estás interesado en colaborar en proyectos o simplemente quieres charlar sobre desarrollo web, no dudes en ponerte en contacto conmigo.
 
-- Email: tuemail@example.com
-- LinkedIn: [Martin Bruno](https://www.linkedin.com/in/tu_usuario/)
-- Sitio web: https://martinbruno.dev
+- Email: martinbruno30@gmail.com
+- LinkedIn: [Martin Bruno]((https://www.linkedin.com/in/martin-bruno30/))
+- Telefono: 3515448073
 
 ## ¡Gracias por visitar mi perfil! 🙌
 
