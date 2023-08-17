@@ -5,7 +5,7 @@
 
 ## Desarrollador Web Full Stack 🚀
 
-¡Bienvenido a mi repositorio de GitHub! Soy un apasionado desarrollador web Full Stack con experiencia en tecnologías como HTML, CSS, JavaScript, Node.js, Express, React y MongoDB. Me encanta aprender cosas nuevas y resolver desafiantes problemas tecnológicos.
+¡Bienvenido a mi repositorio de GitHub! Soy un apasionado desarrollador web Full Stack con experiencia en tecnologías como HTML, CSS, JavaScript, Node.js, Express, React y PostgreSQL. Me encanta aprender cosas nuevas y resolver desafiantes problemas tecnológicos.
 
 ## Mis habilidades principales 💻
 
